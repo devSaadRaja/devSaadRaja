@@ -45,11 +45,6 @@ Here are a few things I've picked up along my learning journey.
 
 <br />
 
-## Saad Raja's Github Stats
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSaadRaja&theme=tokyonight)</span>
-
-<br />
-
 ## 📫 Get in touch
 Feel free to reach out to me for any **Crypto, Blockchain** Discussions or Smart Contract Development in Solidity.
 <p align="left">
