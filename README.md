@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 I've been immersed in the world of Smart Contract Development and Integration for over a year now.
 - 💡 I really enjoy learning about new technologies, creating new software solutions, and putting my heart into working on Blockchain and Web3 development.
-- ✍ I’m currently learning **Node.js** and working on **Root Protocol**.
+- ✍ I’m currently learning **Node.js** and working on **SMX Protocol - a Synthetix and Kwenta fork**.
 - 📈 In my free time, I read about what's new in the market.
 - 🎨 As a hobby, I love to play guitar and make generative art.
 
