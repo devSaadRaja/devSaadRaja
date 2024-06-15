@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/10625603/file/original-af9406c2eb7931f0241f599927266a4a.png?resize=1024x173)]()
+[![MasterHead](https://cdn.dribbble.com/userupload/15118659/file/original-4d406ffbdd944a0d97d5622748eadb8e.png?resize=1280×640)]()
 
 <h1 align="center">Hi 👋, I'm Saad Raja</h1>
 <h3 align="center">Full Stack Blockchain Developer</h3>
@@ -6,8 +6,8 @@
 <img align="right" alt="decentralized" width="300" src="https://i.pinimg.com/originals/c4/d8/d7/c4d8d7f9e12230e974cb918678b161b4.gif" />
 
 - 👨🏻‍💻 I've been immersed in the world of Smart Contract Development and Integration for over a year now.
-- 💡 I really enjoy learning about new technologies, creating new software solutions, and putting my heart into working on Blockchain and Web3 development.
-- ✍ I’m currently learning **Node.js** and working on **SMX Protocol - a Synthetix and Kwenta fork**.
+- 💡 I enjoy learning about new technologies, creating new software solutions, and putting my heart into working on Blockchain and Web3 development.
+- ✍ I’m currently working on **SMX Protocol - a Synthetix and Kwenta fork**.
 - 📈 In my free time, I read about what's new in the market.
 - 🎨 As a hobby, I love to play guitar and make generative art.
 
