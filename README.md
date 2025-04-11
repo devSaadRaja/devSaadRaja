@@ -7,41 +7,44 @@
 
 - 👨🏻‍💻 I've been immersed in the world of Smart Contract Development and Integration for over a year now.
 - 💡 I enjoy learning about new technologies, creating new software solutions, and putting my heart into working on Blockchain and Web3 development.
-- ✍ I’m currently working on **SMX Protocol - a Synthetix and Kwenta fork**.
+- ✍ I’m currently working on **Shezmu v2 - a CDP lending protocol**.
 - 📈 In my free time, I read about what's new in the market.
 - 🎨 As a hobby, I love to play guitar and make generative art.
 
 <br />
 
-## 💻 Tech Stack
+<h2 id="-techstack"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Tech Stack</b></h2>
 
 Here are a few things I've picked up along my learning journey.
 
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/userupload/10626067/file/original-ae140e59e4c8d99fcef0b676fef14d30.png" alt="solidity" width="30" /></a>
-<a href="https://web3js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/ChainSafe/web3.js/assets/logo/web3js.jpg" alt="web3" width="50" /></a>
-<a href="https://docs.ethers.org/v6/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers" width="50" /></a>
+![Blockchain](https://img.shields.io/badge/-blockchain-blue?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Solidity](https://img.shields.io/badge/-SOLIDITY-grey?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3JS](https://img.shields.io/badge/-web3JS-orange?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![EthersJS](https://img.shields.io/badge/-ethersJS-blue?style=for-the-badge&logo=ethers&logoColor=white)
 
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=50284&format=png" alt="ethereum" width="50" /></a>
-<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/openzeppelin-logo-2909FE553F-seeklogo.com.png" alt="openzeppelin" width="40" /></a>
-<a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/chainlink-link-logo-FB38A5933B-seeklogo.com.png" alt="chainlink" width="40" /></a>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![Openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
+![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50" /> </a>
-<a href="https://getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://getfoundry.sh/logo.png" alt="foundry" width="50" /> </a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" /> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" /> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" /> </a>
+![Hardhat](https://img.shields.io/badge/-hardhat-FCD535?style=for-the-badge&logo=hardhat&logoColor=white)
+![Foundry](https://img.shields.io/badge/-foundry-orange?style=for-the-badge&logo=foundry&logoColor=white)
 
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" /> </a> 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" /> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" /> </a> 
+![MochaJS](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![ChaiJS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" /> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" /> </a>
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" /> </a> 
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=108792&format=png" alt="windows" width="50" /> </a> 
+![postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman)
+![git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 <br />
 
