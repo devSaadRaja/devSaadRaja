@@ -5,7 +5,7 @@
 
 <img align="right" alt="decentralized" width="300" src="https://i.pinimg.com/originals/c4/d8/d7/c4d8d7f9e12230e974cb918678b161b4.gif" />
 
-- 👨🏻‍💻 I've been immersed in the world of Smart Contract Development and Integration for over a year now.
+- 👨🏻‍💻 I've been immersed in the world of Smart Contract Development and Integration for 2+ years now.
 - 💡 I enjoy learning about new technologies, creating new software solutions, and putting my heart into working on Blockchain and Web3 development.
 - ✍ I’m currently working on **Shezmu v2 - a CDP lending protocol**.
 - 📈 In my free time, I read about what's new in the market.
