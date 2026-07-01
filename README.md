@@ -53,7 +53,7 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 Feel free to reach out to me for any **Crypto, Blockchain** Discussions or Smart Contract Development in Solidity.
 <p align="left">
-  <a href="mailto:saadraja6432@gmail.com"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="gmail" height="30" width="50" /></a>
+  <a href="mailto:contact@saadraja.dev"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="gmail" height="30" width="50" /></a>
   <a href="https://linkedin.com/in/imsaadraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsaadraja" height="30" width="40" /></a>
 </p>
 
